@@ -44,6 +44,8 @@ The aim is to design and simulate a full custom 2:1 multiplexer (MUX) using Cade
 
 ### 1. 2:1 MUX USING CMOS
 ![image](https://github.com/user-attachments/assets/6fe3965a-47de-47d4-9dd1-0d52054de81b)
+![EXP 2 VLSI CIRCUIT](https://github.com/user-attachments/assets/015b609e-3e41-41c3-b8ca-fec1de4eaf40)
+
 
 
 ### 2. Schematic of Full Custom 2:1 MUX
@@ -61,6 +63,8 @@ The aim is to design and simulate a full custom 2:1 multiplexer (MUX) using Cade
 
 ### 1. Transient Analysis Output
 *![image](https://github.com/user-attachments/assets/557307b6-a35f-4e94-90e4-59bdb361c676)*
+![EXP 2 VLSI OUTPUT](https://github.com/user-attachments/assets/40aa01f4-aef7-4e7b-99f2-50b192bb9e31)
+
 
 ## Results
 1. Successfully designed the full custom 2:1 MUX schematic using Cadence EDA tools.
